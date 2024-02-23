@@ -8,7 +8,7 @@
 <br>
 • There is a menu page.
 <br>
-There is a page with an About Me section that provides information about the site.
+• There is a page with an About Me section that provides information about the site.
 <hr>
 
 # Getting Started with Create React App
